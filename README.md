@@ -1,24 +1,30 @@
 # desafio-elo
 
-## Project setup
+
+## Você precisa ter Instalado: 
+```
+Visual Studio, a carga de trabalho de desenvolvimento de Node.js e runtime do Node.js
+```
+
+## Configuração do Projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar use o comando:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e minimiza para produção
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints e conserta arquivos
 ```
 npm run lint
 ```
 
-### Customize configuration
+### Personalize a configuração
 See [Configuration Reference](https://cli.vuejs.org/config/).
