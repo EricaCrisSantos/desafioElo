@@ -5,11 +5,7 @@
   elevation="1"
   class="card"
 > 
-
-    <v-img src="../assets/imagem.png" alt="logoElo" class="imagem-logo" >
-    </v-img>
-
-  
+    <v-img src="../assets/imagem.png" alt="logoElo" class="imagem-logo"></v-img>
   
   <v-form
     ref="form"
@@ -31,7 +27,6 @@
       required
       type="password"
     ></v-text-field>
-
     
     <v-text-field
       v-model="confirmarSenha"
@@ -39,7 +34,6 @@
       label="Confirmar de senha *"
       required
       type="password"
-
     ></v-text-field>
 
        <v-btn
